@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  TestApp
+
+  Created by Iegor Borodai on 7/23/15.
+  Copyright (c) 2015 Iegor Borodai. All rights reserved.
+
+*/
+
+/* Mail cliend error title*/
+"mailClient.error.title" = "Oops...";
+
+/* Mail cliend error */
+"mailClient.error.text" = "It seems that you don\'t have a mail account defined. If you have the Gmail app installed on your phone, go to NOW calendar\'s main menu and click \"More settings > Open mail in\"";
+
+/* Multiple all day events text on event */
+"events.cell.multipleAllDayEvents" = "Multiple all-day events";
+
+/* Multiple events text on event */
+"events.cell.multipleEvents" = "Multiple events";
+
+/* Click to expand event cell text */
+"events.cell.clickToExpand" = "Click to expand";
+
+
+
